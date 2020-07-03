@@ -1,0 +1,16 @@
+.example-card {
+  font-family: "Lucida Console", Courier, monospace;
+  max-width: 500px;
+}
+
+.button-row {
+  margin: 10px 0;
+}
+
+.mat-card-title {
+  color: darkblue;
+}
+
+dt {
+  color: royalblue;
+}
